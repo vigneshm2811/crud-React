@@ -1,0 +1,24 @@
+
+
+body {
+  margin: 0;
+  display: flex;
+
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+
+}
+
+.deleteIcon{
+  color: #ef0e42;
+  cursor: pointer;
+  font-size: 28px !important;
+}
+.editIcon{
+  cursor: pointer;
+  font-size: 28px !important;
+}
+
+
+

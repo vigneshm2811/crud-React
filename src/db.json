@@ -1,0 +1,84 @@
+{
+    "users":[
+    {
+        "id": 1,
+        "name": "Ron Weasley",
+        "username": "ronw",
+        "email": "ronweasley@example.com",
+        "phone": "123-456-7890",
+        "website": "ronweasley.com"
+    },
+    {
+        "id": 2,
+        "name": "Hermione Granger",
+        "username": "hermioneG",
+        "email": "hermione.granger@example.com",
+        "phone": "234-567-8901",
+        "website": "hermionegranger.com"
+    },
+    {
+        "id": 3,
+        "name": "Harry Potter",
+        "username": "harryP",
+        "email": "harrypotter@example.com",
+        "phone": "345-678-9012",
+        "website": "harrypotter.com"
+    },
+    {
+        "id": 4,
+        "name": "Albus Dumbledore",
+        "username": "albusD",
+        "email": "albusdumbledore@example.com",
+        "phone": "456-789-0123",
+        "website": "albusdumbledore.com"
+    },
+    {
+        "id": 5,
+        "name": "Severus Snape",
+        "username": "severusS",
+        "email": "severussnape@example.com",
+        "phone": "567-890-1234",
+        "website": "severussnape.com"
+    },
+    {
+        "id": 6,
+        "name": "Sirius Black",
+        "username": "siriusB",
+        "email": "siriusblack@example.com",
+        "phone": "678-901-2345",
+        "website": "siriusblack.com"
+    },
+    {
+        "id": 7,
+        "name": "Minerva McGonagall",
+        "username": "minervaM",
+        "email": "minervamcgonagall@example.com",
+        "phone": "789-012-3456",
+        "website": "minervamcgonagall.com"
+    },
+    {
+        "id": 8,
+        "name": "Rubeus Hagrid",
+        "username": "rubeusH",
+        "email": "rubeushagrid@example.com",
+        "phone": "890-123-4567",
+        "website": "rubeushagrid.com"
+    },
+    {
+        "id": 9,
+        "name": "Ginny Weasley",
+        "username": "ginnyW",
+        "email": "ginnyweasley@example.com",
+        "phone": "901-234-5678",
+        "website": "ginnyweasley.com"
+    },
+    {
+        "id": 10,
+        "name": "Draco Malfoy",
+        "username": "dracoM",
+        "email": "dracomalfoy@example.com",
+        "phone": "012-345-6789",
+        "website": "dracomalfoy.com"
+    }
+]
+}
